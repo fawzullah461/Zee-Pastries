@@ -5,6 +5,13 @@
   font-weight: normal;
   font-style: normal; }
 
+
+  .social-links{
+    letter-spacing: 20px;
+    font-size: larger;
+  }
+
+
 /* =======================================================
 *
 * 	Template Style 
@@ -264,7 +271,7 @@ figure {
         display: block;
         margin-bottom: 10px; }
         #colorlib-hero .flexslider .flex-control-nav li a {
-          background: rgba(0, 0, 0, 0.5);
+          background: rgba(45, 6, 184, 0.5);
           -webkit-box-shadow: none;
           box-shadow: none;
           width: 12px;
@@ -293,7 +300,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          color: rgb(23, 13, 173);
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
